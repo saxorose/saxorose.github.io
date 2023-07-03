@@ -1,6 +1,6 @@
 
 body.bgrose{
-    background-image: url("images/ROSEBG.jpg");
+    background-image: url("images/ROSEBGSAD.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-color: #FE0000;
@@ -9,8 +9,8 @@ body.bgrose{
     
 }
 
-body.bgrose:window-inactive {
-    background-image: url("images/ROSEBGSAD.jpg");
+body.bgrose:hover {
+    background-image: url("images/ROSEBG.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-color: #FE0000;
