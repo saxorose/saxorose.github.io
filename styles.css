@@ -29,18 +29,18 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .aboutShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   top: 0%;
@@ -52,18 +52,18 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .instrumentsShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   top: 30%;
@@ -75,21 +75,21 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .dogmaticsShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
-  bottom: 8%;
+  bottom: 24%;
   left: 5%;
   transform: translate(-5px, -20px);
 }
@@ -98,18 +98,18 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .musicShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   top: 0%;
@@ -121,18 +121,18 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .writingsShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   top: 33%;
@@ -146,21 +146,21 @@ position: absolute;
   width:100%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
 .instagramShell{
-  width:25%;
+  width:35%;
   height:auto;
   position: absolute;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 350px;
   max-height: 600px;
-  bottom: 6%;
+  bottom: 24%;
   right: 1%;
   transform: translate(-5px, -20px);
 }
@@ -179,8 +179,3 @@ position: absolute;
   transition: 0.1s ease;
   transform: translate(-5px, -5px) scale(1.05);
   }
-
-
-
-
-
