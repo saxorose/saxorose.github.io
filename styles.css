@@ -71,7 +71,7 @@ position: absolute;
   transform: translate(-5px, -20px);
 }
 
-.Dogmaticslink{
+.dogmaticslink{
   width:100%;
   height:auto;
   position: absolute;
@@ -81,7 +81,7 @@ position: absolute;
   max-height: 600px;
   transform: translate(-5px, -5px);
   }
-.DogmaticsShell{
+.dogmaticsShell{
   width:25%;
   height:auto;
   position: absolute;
